@@ -1,0 +1,5 @@
+[21-Dec-2016 15:06:40 America/El_Salvador] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/guanaquitosoft/public_html/gestion/modulos/backup/backup.php on line 209
+[21-Dec-2016 20:16:45 America/El_Salvador] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/guanaquitosoft/public_html/gestion/modulos/backup/backup.php on line 209
+[21-Dec-2016 20:19:12 America/El_Salvador] PHP Warning:  include_once(../menu.php): failed to open stream: No existe el fichero o el directorio in /home/guanaquitosoft/public_html/gestion/modulos/backup/restorex.php on line 284
+[21-Dec-2016 20:19:12 America/El_Salvador] PHP Warning:  include_once(): Failed opening '../menu.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/guanaquitosoft/public_html/gestion/modulos/backup/restorex.php on line 284
+[21-Dec-2016 20:25:08 America/El_Salvador] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/guanaquitosoft/public_html/gestion/modulos/backup/backup.php on line 209
